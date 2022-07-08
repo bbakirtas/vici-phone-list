@@ -1,8 +1,8 @@
 #### Vicidial List Phones
 
-- Asterisk Server Registered Phones List
-- Barge
-- Monitor
+- Asterisk Server Registered Phones List "sip show peers"
+- Barge (Logged users working with api)
+- Monitor (Logged users working with api)
 - Call Registered Phones
 - Vicidial VERSION: 2.14-859a
 BUILD: 220623-0824 
