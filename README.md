@@ -14,7 +14,7 @@ BUILD: 220623-0824
 ```
 
 ```html
-$extension_g = substr($json[$b],0,4); // like 1001 if your phones like 10001 change 4 to 5
+$extension_g = substr($json[$b],0,4); // Dial Plan Number 1001 if your Dial Plan Number like 10001 change 4 to 5
 ```
 #### Add
 ```html
