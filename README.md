@@ -4,7 +4,6 @@
 - Barge
 - Monitor
 - Call Registered Phones
-- Flowchart and Sequence Diagram;
 - Vicidial VERSION: 2.14-859a
 BUILD: 220623-0824 
 - Phones number of characters 4 if your phones have more edit code.
