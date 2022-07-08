@@ -1,7 +1,19 @@
-# vici-phone-list
-List of phones connected to the server.
-It shows the softphones or the phones that are connected to the asterisk server in any way.You can call phones,barge and monitor.
-[My image](bbakirtas.github.com/vici-phone-list/screen.JPG)
-Edit : dashboard.php "$data = system('echo "rootpasswd" | sudo -u root -S perl /usr/share/empty/sipshow.pl');"
-Add :  sipshow.pl in usr/share/empty
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+#### Vicidial List Phones
+
+- Asterisk Server Registered Phones List
+- Barge
+- Monitor
+- Call Registered Phones
+- Flowchart and Sequence Diagram;
+- Vicidial VERSION: 2.14-859a
+BUILD: 220623-0824 
+#### Edit
+```html
+"$data = system('echo "rootpasswd" | sudo -u root -S perl /usr/share/empty/sipshow.pl');"
+```
+#### Add
+```html
+sipshow.pl to /usr/share/empty
+```
+#### Screen
+![](https://raw.githubusercontent.com/bbakirtas/vici-phone-list/main/screen.JPG)
