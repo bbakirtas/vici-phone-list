@@ -169,15 +169,5 @@ if (strstr($json[$b],"OK")) {
 </div>
 </div>
 
-
-               
-
-                  
-                                 
-               
-              
-          
-
-
 <?php }
  ?>
