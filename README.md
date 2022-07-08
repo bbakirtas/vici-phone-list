@@ -1,4 +1,4 @@
-#### Vicidial List Phones
+#### Vicidial List Registered Phones
 
 - Asterisk Server Registered Phones List "sip show peers"
 - Barge (Logged users working with api)
